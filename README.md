@@ -14,3 +14,6 @@ The following packages are required:
 - pip install chembl-webresource-client
 - pip install rdkit-pypi  
 
+## Overview
+
+An overview of the project is provided [here]() 
