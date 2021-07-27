@@ -16,4 +16,4 @@ The following packages are required:
 
 ## Overview
 
-An overview of the project is provided [here]() 
+An overview of the project is provided [here](https://github.com/jgriffi/strigolactone_project/blob/master/Strigolsctone_targets_overview.pdf) 
