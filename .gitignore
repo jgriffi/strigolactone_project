@@ -1,4 +1,4 @@
 *.key
 *.smi
-*.csv
+#*.csv
 *.ipynb_checkpoints
