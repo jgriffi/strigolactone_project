@@ -1,6 +1,6 @@
 *.key
 *.smi
-#*.csv
+*.csv
 *.ipynb_checkpoints
 .DS_Store
 *.DS_store
